@@ -158,9 +158,6 @@ TARGET_HW_DISK_ENCRYPTION := false
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
-# Build system
-USE_NINJA := false
-
 # Keymaster
 TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
